@@ -9,3 +9,25 @@ aside {
 main {
     flex: 6;
 }
+
+header {
+    
+}
+
+img {
+    height: 50px;
+}
+
+nav {
+    display: flex;
+    justify-content: space-around;
+}
+
+nav div:hover {
+    background-color: #bbb;
+}
+
+a {
+    color: darkgreen;
+}
+
